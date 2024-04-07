@@ -1,5 +1,5 @@
 
-**API Integrated Dictionary App**<br.
+**API Integrated Dictionary App**<br>
 This project is a simple dictionary application that integrates with an API to provide definitions, synonyms, and examples of words. <br>It was built using HTML, CSS, and JavaScript to offer users an intuitive and efficient way to look up information about various words.
 
 **Features**<br>
@@ -9,7 +9,7 @@ Provides definitions, synonyms, and usage examples for searched words.<br>
 Responsive design, compatible with both desktop and mobile devices.<br>
 
 **Demo**<br>
-Experience the live demo here :- 
+Experience the live demo here :- https://rohit5377.github.io/API-Integrated-Dictonary-App/
 
 **Usage**<br>
 Enter a word into the search bar and press Enter or click the search button.<br>
